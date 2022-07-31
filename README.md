@@ -11,6 +11,6 @@ Ce répertoire contient divers projets que j'ai écrits dans le but d'acquérir 
 
 ##
 
-Ce dépôt sera continuellement mis à jour par l'ajout de nouveaux projets et la modification des projets existants. Toute remarque pertinente concernant les sources présentées est la bienvenue.
+Ce dépôt sera continuellement mis à jour par l'ajout de nouveaux projets et la modification de ceux existants. Toute remarque pertinente concernant les sources présentées est la bienvenue.
 
 Charles T.
