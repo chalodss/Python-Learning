@@ -1,6 +1,6 @@
 '''
 Exercise    : Hanoi Towers
-Author      : Charles Theetten
+Author      : Charles T.
 '''
 
 import sys
